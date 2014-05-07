@@ -1,0 +1,28 @@
+'exception-reporting':
+  'userId': 'd109bd98-717f-1d25-f0c3-e493ea03f433'
+'release-notes':
+  'viewedVersion': '0.94.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '91c1f9fdb6141d4ec455965e323a0796b7c28287'
+'editor':
+  'fontSize': 12
+  'lineHeight': 1.4
+  'showLineNumbers': false
+  'showIndentGuide': true
+  'fontFamily': 'Menlo'
+  'softWrap': true
+  'showInvisibles': true
+'core':
+  'themes': [
+    'atom-dark-ui'
+    'solarized-dark-syntax'
+  ]
+  'projectHome': '/Users/icetan/Document/src'
+  'ignoredNames': [
+    '.git'
+    '.DS_Store'
+    '.svn'
+    'node_modules'
+  ]
